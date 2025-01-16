@@ -2,6 +2,8 @@
 
 A simple and efficient Pomodoro Timer desktop application built with Xojo for Linux systems.
 
+![Pomodoro Timer Demo](./demo/Demo.gif) 
+
 ## Description
 
 This Pomodoro Timer is a productivity tool that helps you manage your work and break times using the Pomodoro Technique. The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks.
