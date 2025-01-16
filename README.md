@@ -15,7 +15,6 @@ This Pomodoro Timer is a productivity tool that helps you manage your work and b
 - Pause and resume functionality
 - Reset option
 - Visual time display
-- 
 - Simple and clean interface
 - Native Linux application
 
